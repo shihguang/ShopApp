@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "605734624109",
+    "firebase_url": "https://fir-shop-630b4.firebaseio.com",
+    "project_id": "fir-shop-630b4",
+    "storage_bucket": "fir-shop-630b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605734624109:android:7563ffe62e453f81",
+        "android_client_info": {
+          "package_name": "com.fju.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605734624109-t08o6i3ot55ril32vhg0n216sem1rfgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fju.school",
+            "certificate_hash": "07770a1eb65fd32525771621e5be9c99950a2c32"
+          }
+        },
+        {
+          "client_id": "605734624109-u1haj3mouuehf3994ro0esb8d731p9ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYk3HUJHCIMzdGVhZXg8a3743gly00q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605734624109-u1haj3mouuehf3994ro0esb8d731p9ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605734624109:android:f268a561081f6c7e",
+        "android_client_info": {
+          "package_name": "com.fju.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605734624109-s0f4tsf5lv0bcp2ga39keerhg02q3fi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fju.shop",
+            "certificate_hash": "125a2a65b30b972e23179e81b1b4a6a41323a8fc"
+          }
+        },
+        {
+          "client_id": "605734624109-u1haj3mouuehf3994ro0esb8d731p9ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYk3HUJHCIMzdGVhZXg8a3743gly00q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605734624109-u1haj3mouuehf3994ro0esb8d731p9ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605734624109:android:d0ebbdba25d4871c",
+        "android_client_info": {
+          "package_name": "com.fju.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605734624109-e6bnlbi1s6g8qm4td83eslgcgtnm9po7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fju.shopapp",
+            "certificate_hash": "125a2a65b30b972e23179e81b1b4a6a41323a8fc"
+          }
+        },
+        {
+          "client_id": "605734624109-u1haj3mouuehf3994ro0esb8d731p9ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMYk3HUJHCIMzdGVhZXg8a3743gly00q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605734624109-u1haj3mouuehf3994ro0esb8d731p9ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
